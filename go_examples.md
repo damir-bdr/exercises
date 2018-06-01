@@ -84,5 +84,10 @@
 
 * [Recreate var val in block](https://play.golang.org/p/ez5s00yi-2X)
 
+* [Outer/Inner s](https://play.golang.org/p/p8oxU-37fL9)
+
+* [Map contains itself as value](https://play.golang.org/p/btQ4D3rCXQf)
+
+
 
 
