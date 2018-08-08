@@ -92,6 +92,8 @@
 
 * [Random binary sequence generator](https://play.golang.org/p/v1W3F4POp1q)
 
+* [Once,do()](https://play.golang.org/p/ZKM03YPyrsM)
+
 
 
 
