@@ -88,6 +88,8 @@
 
 * [Map contains itself as value](https://play.golang.org/p/btQ4D3rCXQf)
 
+* [Switch statement as function](https://play.golang.org/p/De3qmWtpL_j)
+
 
 
 
