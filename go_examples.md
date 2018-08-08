@@ -90,6 +90,9 @@
 
 * [Switch statement as function](https://play.golang.org/p/De3qmWtpL_j)
 
+* [Random binary sequence generator](https://play.golang.org/p/v1W3F4POp1q)
+
+
 
 
 
