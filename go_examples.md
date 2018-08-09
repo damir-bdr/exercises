@@ -94,8 +94,6 @@
 
 * [Once.do()](https://play.golang.org/p/ZKM03YPyrsM)
 
-
-
-
+* [Once.do() deadlock](https://play.golang.org/p/WSyuIpNm2E1)
 
 
