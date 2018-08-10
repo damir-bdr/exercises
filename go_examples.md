@@ -98,5 +98,7 @@
 
 * [Assignment to interface type variable](https://play.golang.org/p/ZBU9vedDCPv)
 
+* [Type assertion](https://play.golang.org/p/ccqpzbHO0Ql)
+
 
 
