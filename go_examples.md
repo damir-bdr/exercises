@@ -102,5 +102,5 @@
 
 * [Type assertion with simple types](https://play.golang.org/p/dJCpR2hQxNo)
 
-
+* [sync.Pool](https://play.golang.org/p/Ql4U4O-Fs5m)
 
