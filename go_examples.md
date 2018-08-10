@@ -100,5 +100,7 @@
 
 * [Type assertion](https://play.golang.org/p/ccqpzbHO0Ql)
 
+* [Type assertion with simple types](https://play.golang.org/p/dJCpR2hQxNo)
+
 
 
