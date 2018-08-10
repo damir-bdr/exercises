@@ -96,4 +96,7 @@
 
 * [Once.do() deadlock](https://play.golang.org/p/WSyuIpNm2E1)
 
+* [Assignment to interface type variable](https://play.golang.org/p/ZBU9vedDCPv)
+
+
 
