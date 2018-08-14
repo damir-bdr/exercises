@@ -104,3 +104,7 @@
 
 * [sync.Pool](https://play.golang.org/p/Ql4U4O-Fs5m)
 
+* [*[]byte sync.Pool](https://play.golang.org/ *[]bytep(/eAwZdXaetEJ)
+
+
+
