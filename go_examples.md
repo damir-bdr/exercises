@@ -106,5 +106,7 @@
 
 * [Slice of bytes sync.Pool](https://play.golang.org/p/eAwZdXaetEJ)
 
+* [Default value generated from	a	closed channel](https://play.golang.org/p/aBB4lA5Nz1P)
+
 
 
