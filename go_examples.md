@@ -108,5 +108,8 @@
 
 * [Default value generated from	a	closed channel](https://play.golang.org/p/aBB4lA5Nz1P)
 
+* [return <-chan int](https://play.golang.org/p/ekd_WT7g3u0)
+
+
 
 
