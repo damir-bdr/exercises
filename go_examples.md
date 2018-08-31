@@ -112,6 +112,10 @@
 
 * [Multiple reading from closed channels](https://play.golang.org/p/FpAoUvC5TrG)
 
+* [Reading from nil channel with timeout](https://play.golang.org/p/FP3rQtCB6YT)
+
+
+
 
 
 
