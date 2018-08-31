@@ -116,6 +116,8 @@
 
 * [Reading from nil channel with timeout](https://play.golang.org/p/FP3rQtCB6YT)
 
+* [select break loop] (https://play.golang.org/p/cedZB2JGIx9)
+
 
 
 
