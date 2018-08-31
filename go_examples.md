@@ -110,6 +110,8 @@
 
 * [return <-chan int](https://play.golang.org/p/ekd_WT7g3u0)
 
+* [Multiple reading from closed channels](https://play.golang.org/p/FpAoUvC5TrG)
+
 
 
 
