@@ -18,6 +18,8 @@
 
 * [Iota](https://play.golang.org/p/bZQx6q10L9)
 
+* [Default select statement](https://play.golang.org/p/rHBB4dPhjxA)
+
 * [Modifying a slice inside a variadic function](https://play.golang.org/p/R0GsuW7rdd)
 
 * [One more program to understand variadic functions and append](https://play.golang.org/p/WdbFIkdLoe)
@@ -113,6 +115,8 @@
 * [Multiple reading from closed channels](https://play.golang.org/p/FpAoUvC5TrG)
 
 * [Reading from nil channel with timeout](https://play.golang.org/p/FP3rQtCB6YT)
+
+
 
 
 
