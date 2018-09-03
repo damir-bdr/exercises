@@ -118,6 +118,9 @@
 
 * [select break loop](https://play.golang.org/p/cedZB2JGIx9)
 
+* [Simple example of a goroutine leak](https://play.golang.org/p/oJos35yzwZq)
+
+
 
 
 
