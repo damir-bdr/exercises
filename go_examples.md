@@ -120,7 +120,7 @@
 
 * [Simple example of a goroutine leak](https://play.golang.org/p/oJos35yzwZq)
 
-
+* [Done channel to prevent goroutine leak](https://play.golang.org/p/ZTTogxg39UN)
 
 
 
