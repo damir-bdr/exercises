@@ -236,7 +236,9 @@
 ## Blockchain
 * [Code your own blockchain mining algorithm in Go!](https://medium.com/@mycoralhealth/code-your-own-blockchain-mining-algorithm-in-go-82c6a71aba1f)
 
+* [Create A Bitcoin Hardware Wallet With Golang And A Raspberry Pi Zero](https://www.thepolyglotdeveloper.com/2018/03/create-bitcoin-hardware-wallet-golang-raspberry-pi-zero/)
 
+* [Generate Cryptocurrency Private Keys And Public Addresses With Golang](https://www.thepolyglotdeveloper.com/2018/02/generate-cryptocurrency-private-keys-public-addresses-golang/)
 
 
 
