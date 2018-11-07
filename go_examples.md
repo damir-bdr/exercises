@@ -122,7 +122,7 @@
 
 * [Done channel to prevent goroutine leak](https://play.golang.org/p/ZTTogxg39UN)
 
-* [for range using array with empty struct](https://play.golang.org/p/syAeLCMDVsF)
+* [For range using array with empty struct](https://play.golang.org/p/syAeLCMDVsF)
 
 
 
