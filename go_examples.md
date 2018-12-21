@@ -128,4 +128,4 @@
 
 * [Dynamic select N channels](https://play.golang.org/p/8zwvSk4kjx)
 
-* [Fan-in, Fan-out, Merge] (https://play.golang.org/p/_NAoJ3szSyo)
+* [Fan-in, Fan-out, Merge](https://play.golang.org/p/_NAoJ3szSyo)
