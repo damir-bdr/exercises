@@ -125,3 +125,6 @@
 * [For range using array with empty struct](https://play.golang.org/p/syAeLCMDVsF)
 
 * [Method chaining pattern](https://play.golang.org/p/q_JCE9Qnxb)
+
+* [Dynamic select N channels](https://play.golang.org/p/8zwvSk4kjx)
+
