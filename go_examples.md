@@ -1,6 +1,8 @@
 
 * [Closure in golang](https://play.golang.org/p/IzazEzHI9_)
 
+* [Capture func](https://play.golang.org/p/RctA6Aic68l)
+
 * [Polymorphism using interface in Go](https://play.golang.org/p/UClAagvLFT)
 
 * [Embedded struct in Go](https://play.golang.org/p/CMH-Vfr2Rn)
