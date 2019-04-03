@@ -9,8 +9,7 @@
 
 * [Type assertion & if](https://play.golang.org/p/U6lqtvry1Q)
 
-* Если интерфейс embedded в структуру, мы можем определять не все методы интерфейса, чтобы структура соответствовала интерфейсу,
-а только те, которые реально нужны.](https://play.golang.org/p/NhtyZ3qviE)
+* [Если интерфейс embedded в структуру, мы можем определять не все методы интерфейса, чтобы структура соответствовала интерфейсу,а только те, которые реально нужны.](https://play.golang.org/p/NhtyZ3qviE)
 
 *[Embedded interface is just an anonymous interface fields](https://play.golang.org/p/M2Y6HJJTfR)
 
