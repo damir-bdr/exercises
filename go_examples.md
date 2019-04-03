@@ -9,7 +9,7 @@
 
 * [Type assertion & if](https://play.golang.org/p/U6lqtvry1Q)
 
-* [Если интерфейс embedded в структуру, мы можем определять не все методы интерфейса, чтобы структура соответствовала интерфейсу,
+* Если интерфейс embedded в структуру, мы можем определять не все методы интерфейса, чтобы структура соответствовала интерфейсу,
 а только те, которые реально нужны.](https://play.golang.org/p/NhtyZ3qviE)
 
 *[Embedded interface is just an anonymous interface fields](https://play.golang.org/p/M2Y6HJJTfR)
@@ -131,3 +131,5 @@
 * [Dynamic select N channels](https://play.golang.org/p/8zwvSk4kjx)
 
 * [Fan-in, Fan-out, Merge](https://play.golang.org/p/_NAoJ3szSyo)
+
+* [Pause - Play goroutine](https://play.golang.org/p/kunX9ikgfIP)
