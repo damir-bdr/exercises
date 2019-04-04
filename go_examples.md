@@ -132,3 +132,6 @@
 * [Fan-in, Fan-out, Merge](https://play.golang.org/p/_NAoJ3szSyo)
 
 * [Pause - Play goroutine](https://play.golang.org/p/kunX9ikgfIP)
+
+* [Pause - Play goroutine using WaitGroup](https://play.golang.org/p/kunX9ikgfIP)
+
