@@ -137,3 +137,6 @@
 
 * [Pause - Play goroutine functional way](https://play.golang.org/p/oirkrhgLXGM)
 
+* [for range argument](https://play.golang.org/p/sgZhlxVf4pa)
+
+
