@@ -133,7 +133,7 @@
 
 * [Pause - Play goroutine](https://play.golang.org/p/kunX9ikgfIP)
 
-* [Pause - Play goroutine using WaitGroup](https://play.golang.org/p/kunX9ikgfIP)
+* [Pause - Play goroutine using WaitGroup](https://play.golang.org/p/6WCy5JIwZJa)
 
 * [Pause - Play goroutine functional way](https://play.golang.org/p/oirkrhgLXGM)
 
