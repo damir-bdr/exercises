@@ -141,7 +141,4 @@
 
 * [recursive inc print](https://play.golang.org/p/5tx5eV0Yutn)
 
-
-
-
-
+* [recursive closure inc print](https://play.golang.org/p/zE343Z1hf_Y)
