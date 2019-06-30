@@ -146,3 +146,6 @@
 * [merge sort](https://play.golang.org/p/jM5gl2e05Fg)
 
 * [bubble sort with checking](https://play.golang.org/p/7HVZpvgfI5P)
+
+* [min steps to change coins](https://play.golang.org/p/cOv8f2NIxep)
+
