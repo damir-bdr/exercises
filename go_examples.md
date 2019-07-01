@@ -37,6 +37,9 @@
 
 * [Map is reference type](https://play.golang.org/p/s-l8GbPOL_O)
 
+
+
+
 * [Closure as iterator](https://play.golang.org/p/4DzPUMx1LpI)
 
 * [Generate even numbers using a named type with a method](https://play.golang.org/p/2SyoxV0kveW)
@@ -147,5 +150,5 @@
 
 * [bubble sort with checking](https://play.golang.org/p/7HVZpvgfI5P)
 
-* [min steps to change coins](https://play.golang.org/p/cOv8f2NIxep)
+* [min steps to change coins with cash](https://play.golang.org/p/5Dei6d63Pmv)
 
