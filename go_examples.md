@@ -156,5 +156,8 @@
 
 * [recursive_reverse](https://play.golang.com/p/FDsHAuPoeBb)
 
+* [quick sort](https://play.golang.org/p/SQgb7MFs-sS)
+
+
 
 
