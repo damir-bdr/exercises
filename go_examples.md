@@ -158,6 +158,4 @@
 
 * [quick sort](https://play.golang.org/p/SQgb7MFs-sS)
 
-
-
-
+* [interface type assertion](https://play.golang.org/p/CiFvW-i-SW6)
