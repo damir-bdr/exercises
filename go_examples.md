@@ -161,3 +161,5 @@
 * [interface type assertion](https://play.golang.org/p/JSYlq6vzL5E)
 
 * [pointer and value receiver type assertion](https://play.golang.org/p/7MRjWYDhme_J)
+
+* [sync.Cond] (https://play.golang.org/p/_WCZLN7S6DN)
