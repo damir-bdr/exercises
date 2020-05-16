@@ -8,5 +8,5 @@ fn main() {
     {
         r = &s.value;
     }
-    println!("{}", r); // borrowed value needs to live until here
+    println!("{}", r);
 }
